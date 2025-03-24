@@ -1,0 +1,3 @@
+function calcAge(age) {
+return age ? age * 365 : 0
+}
